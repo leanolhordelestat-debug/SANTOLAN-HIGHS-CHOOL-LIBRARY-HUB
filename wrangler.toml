@@ -10,7 +10,7 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "santolan-library"
-database_id = "PASTE_YOUR_DATABASE_ID_HERE"
+database_id = "2b917503-f796-481e-bbb2-46ef88bbc949"
 
 [vars]
 ADMIN_EMAIL = "leanolhordelestat@gmail.com"

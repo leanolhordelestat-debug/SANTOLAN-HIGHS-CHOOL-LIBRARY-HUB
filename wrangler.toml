@@ -13,5 +13,5 @@ database_name = "santolan-library"
 database_id = "PASTE_YOUR_DATABASE_ID_HERE"
 
 [vars]
-ADMIN_EMAIL = "your-admin@gmail.com"
-MAIL_FROM = "your-verified-sender@gmail.com"
+ADMIN_EMAIL = "leanolhordelestat@gmail.com"
+MAIL_FROM = "leanolhordelestat@gmail.com"
